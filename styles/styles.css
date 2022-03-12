@@ -1,0 +1,13 @@
+.star {
+    border: none;
+    font-size: 0.6rem;
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+    background-image: url("../img/star.png");
+    background-size: cover;
+  }
+
+  h1{
+      color:red;
+  }
